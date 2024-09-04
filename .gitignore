@@ -1,0 +1,14 @@
+# Python stuff
+**/*.pyc
+**/*.py~
+
+# Latex stuff
+**/*.log
+**/*.lof
+**/*.synctex.gz
+**/*.aux
+
+# General Stuff
+Timeline.txt
+JohnSimonCode.docx
+DefensePresentation/ThesisDefense-Prezi.zip
