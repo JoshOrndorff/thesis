@@ -7,8 +7,16 @@
 **/*.lof
 **/*.synctex.gz
 **/*.aux
+**/*.blg
+**/*.bbl
+
+# Rendered Images
+**/*.eps
+diagrams/*.pdf
+plots/*.pdf
 
 # General Stuff
 Timeline.txt
 JohnSimonCode.docx
+Oscillations at the critical angle May 2013.docx
 DefensePresentation/ThesisDefense-Prezi.zip
